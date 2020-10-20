@@ -6,7 +6,7 @@ And can gathered any location data with the help API of underground by giving it
 
 ## Model
 
-The model is trained over Neural Network with DNN Regresor over the Tensor Flow.
+The model is trained over Neural Network with DNN Regressor over the Tensor Flow.
 
 ## Accuracy
 
